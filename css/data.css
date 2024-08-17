@@ -527,7 +527,6 @@ table tr:first-child:hover {
         overflow-y: auto; 
         max-height: 400px;
         padding: 0%;
-        margin:0%
     }
     
     table {
