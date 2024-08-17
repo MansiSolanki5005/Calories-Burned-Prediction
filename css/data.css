@@ -558,8 +558,8 @@ table tr:first-child:hover {
 
 @media (max-width: 768px) {
     .download-btn {
-        font-size: 15px; 
-        padding: 8px 12px; 
+        font-size: 12px; 
+        padding: 9px; 
         margin-left: 70%;
 
     }
@@ -567,8 +567,8 @@ table tr:first-child:hover {
 
 @media (max-width: 480px) {
     .download-btn {
-        font-size: 14px; 
-        padding: 7px 20px; 
+        font-size: 12px; 
+        padding: 10px; 
         margin-left: 70%;
 
     }
