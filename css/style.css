@@ -490,11 +490,12 @@ nav {
         flex-direction: column;
         align-items: center;
         padding: 3rem 1.5rem;
+        gap:1rem;
     }
 
     .feature {
         width: 100%;
-        margin-bottom: 1.5rem;
+        margin-bottom: 1rem;
     }
 }
 
