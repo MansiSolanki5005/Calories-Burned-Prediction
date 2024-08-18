@@ -389,36 +389,6 @@ table tr:first-child:hover {
     text-decoration: underline;
 }
 
-@media (max-width: 768px) {
-    .footer-container {
-        padding: 1rem 2rem;
-    }
-
-    .footer-section {
-        margin-bottom: 1rem;
-        max-width: 100%;
-    }
-
-    .footer-logo {
-        width: 100px;
-    }
-}
-
-@media (max-width: 480px) {
-    .footer-section h3 {
-        font-size: 22px;
-    }
-
-    .footer-section p, .footer-section a {
-        font-size: 16px;
-    }
-
-    .social-icons a {
-        font-size: 14px;
-        width: 35px;
-        height: 35px;
-    }
-}
 
 @media (max-width: 768px) {
     .nav__toggle {
@@ -561,7 +531,7 @@ table tr:first-child:hover {
 @media (max-width: 768px) {
     .download-btn {
         font-size: 15px; 
-        padding: 8px ; 
+        padding: 8px 12px; 
         margin-left: 70%;
 
     }
@@ -570,7 +540,7 @@ table tr:first-child:hover {
 @media (max-width: 480px) {
     .download-btn {
         font-size: 14px; 
-        padding: 5px; 
+        padding: 7px 20px; 
         margin-left: 70%;
 
     }
